@@ -5,8 +5,11 @@
     background: var(--third-color)
 }
 .header-container{
-    
+    position: fixed;
+    top: 0;
+    width: 100%;
     background: #000000;
+    z-index: 10;
     
 }
 

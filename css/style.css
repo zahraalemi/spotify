@@ -111,8 +111,8 @@
     color: var(--secondary-color);
 }
 
-.footer-top-main a:link{
-    color: var(--secondary-color);
+.footer-top-main a:hover{
+    color: #1ED760;;
 }
 
 .footer-menu-item{

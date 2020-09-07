@@ -34,7 +34,7 @@
 .main-menu-item a{
     color: var(--secondary-color);
 }
-.main-menu-item:link{
+.main-menu-item a:hover{
     color: #1DB954;
 }
 
